@@ -4,3 +4,5 @@
 ## Author: HE Yaowen <he.yaowen@hotmail.com>
 ## Version: 1.0.0
 ## Dependencies: FlexCommand
+
+lib\bind.lua
