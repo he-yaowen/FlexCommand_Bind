@@ -1,0 +1,6 @@
+## Interface: 80300
+## Title: FlexCommand_Bind
+## Notes: FlexCommand Extension: Bind shortcut keys to spells, items and macros.
+## Author: HE Yaowen <he.yaowen@hotmail.com>
+## Version: 1.0.0
+## Dependencies: FlexCommand
