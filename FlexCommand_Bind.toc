@@ -6,3 +6,5 @@
 ## Dependencies: FlexCommand
 
 lib\bind.lua
+
+settings\commands.lua
